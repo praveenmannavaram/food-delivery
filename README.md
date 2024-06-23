@@ -2,6 +2,8 @@
 # https://praveenmannavaram.github.io/food-delivery/
 # output 
 ![Screenshot 2024-06-23 225919](https://github.com/praveenmannavaram/food-delivery/assets/166136854/2aaef1df-eba7-4e90-9721-384461fff312)
+![Screenshot 2024-06-23 230026](https://github.com/praveenmannavaram/food-delivery/assets/166136854/e88f824f-8fa0-4909-ae5c-0f61fa31f163)
+![Screenshot 2024-06-23 230038](https://github.com/praveenmannavaram/food-delivery/assets/166136854/b1490d89-9e17-40fc-911c-5c88f919c7fb)
 ![Screenshot 2024-06-23 230053](https://github.com/praveenmannavaram/food-delivery/assets/166136854/15a39361-5fb4-4bb1-88b8-b738d9cd40b9)
 ![Screenshot 2024-06-23 230108](https://github.com/praveenmannavaram/food-delivery/assets/166136854/30667a41-de76-455a-8eb3-7acb125207fa)
 ![Screenshot 2024-06-23 230122](https://github.com/praveenmannavaram/food-delivery/assets/166136854/21545a1c-b81c-4db8-a0bb-e06cdc8dacc0)
